@@ -14,5 +14,9 @@ public class Ejercio4 {
 		}
 		System.out.println("");
 		System.out.println("La suma de los componentes array t es: "+suma);
+		
+		for (int i:t) {
+			System.out.println(i);
+		}
 	}
 }
