@@ -6,10 +6,6 @@ public class Ejercicio3b {
 
 		for (int i = 0; i < t.length; i++) {
 			t[i] = Math.round(t[i] * 1.10);
-
-		}
-
-		for (int i = 0; i < t.length; i++) {
 			System.out.println(t[i]);
 		}
 	}
